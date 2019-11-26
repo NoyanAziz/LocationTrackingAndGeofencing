@@ -1,0 +1,3 @@
+[submodule "LocationTrackingDemo"]
+	path = LocationTrackingDemo
+	url = https://github.com/asadbinkhalid/LocationTrackingDemo.git
