@@ -1,2 +1,3 @@
-# LocationTrackingAndGeofencing
-This is a basic android application which uses Google Location Services and keeps a track of the location of user at different intervals
+# Location Tracking and Geofencing
+
+This is a project from my Bechelors degree course Android Development. This application uses Google Location Services to track the location of the user at different intervals.
